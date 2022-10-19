@@ -2,7 +2,7 @@
 
 /**
  * driver - selector for type of fun.
- * @format: string.
+ * @format: string
  * Description: the function loops through the structs
  * selector[] ment of the struct.
  * Return: a pointer
